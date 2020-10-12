@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on [Jiliguala](https://www.jiliguala.com/);
+- I’m currently learning k8s;
+- Languages: Python, Golang, Elixir;
+- 📫 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
