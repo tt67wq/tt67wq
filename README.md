@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on [Jiliguala](https://www.jiliguala.com/);
-- I’m currently learning k8s;
 - Languages: Python, Golang, Elixir;
 - 📫 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
 - Blog: [boy next door](https://blog.tt67wq.top)
