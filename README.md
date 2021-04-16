@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Languages: Python, Golang, Elixir;
+- Languages: Python, Golang, Elixir, C;
 - 📫 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
-- Blog: [boy next door](https://blog.tt67wq.top)
