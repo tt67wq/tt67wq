@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Languages: Python, Golang, Elixir, C;
+- 🔭炼丹术士！
+- 中立邪恶阵营！
 - 📫 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
