@@ -15,5 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭炼丹术士&&捕蛇者
-- 📫 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
+- 🔭Alchemist
+-   Pythonista
+-   Gopher
+-   Emacser
+-   How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
