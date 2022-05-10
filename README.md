@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭Alchemist
--   Pythonista
--   Gopher
--   Emacser
--   How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
+- 🔭 Elixir
+- 🔭 Python
+- 🔭 Gopher
+- 😄 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
