@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Elixir
-- 🔭 Python
-- 🔭 Gopher
-- 😄 How to reach me: Add my wechat MTMzNzI1NzY5ODc=;
+- 🔭 I'm good at Elixir/Python/Golang
+- 🌱 I’m currently working on [Poizon](https://apps.apple.com/hk/app/poizon-authentic-fashion/id1509915974?l=en)
+-  How to reach me: Add my wechat MTMzNzI1NzY5ODc=
