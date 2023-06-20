@@ -1,20 +1,9 @@
 ### Hi there 👋
 
-<!--
-**tt67wq/tt67wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+How to reach me: Add my wechat MTMzNzI1NzY5ODc=
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 I'm good at Elixir/Python/Golang
-- 🌱 I’m currently working on [Poizon](https://apps.apple.com/hk/app/poizon-authentic-fashion/id1509915974?l=en)
--  How to reach me: Add my wechat MTMzNzI1NzY5ODc=
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tt67wq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tt67wq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tt67wq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tt67wq&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tt67wq&theme=2077&utcOffset=8)
